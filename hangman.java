@@ -15,6 +15,7 @@ public class hangman{
                 System.out.println("      |    |");
                 System.out.println("     /L    |");
                 System.out.println("     ______|");
+                break;
                 
             case(1):
                 System.out.println("      ______");
@@ -24,6 +25,7 @@ public class hangman{
                 System.out.println("      |    |");
                 System.out.println("     /     |");
                 System.out.println("     ______|");
+                break;
                 
             case(2):
                 System.out.println("      ______");
@@ -33,6 +35,7 @@ public class hangman{
                 System.out.println("      |    |");
                 System.out.println("           |");
                 System.out.println("     ______|");
+                break;
                 
             case(3):
                 System.out.println("      ______");
@@ -42,6 +45,7 @@ public class hangman{
                 System.out.println("      |    |");
                 System.out.println("           |");
                 System.out.println("     ______|");
+                break;
                 
             case(4):
                 System.out.println("      ______");
@@ -51,6 +55,7 @@ public class hangman{
                 System.out.println("      |    |");
                 System.out.println("           |");
                 System.out.println("     ______|");
+                break;
                 
             case(5):
                 System.out.println("      ______");
@@ -60,6 +65,7 @@ public class hangman{
                 System.out.println("           |");
                 System.out.println("           |");
                 System.out.println("     ______|");
+                break;
                 
             case(6):
                 System.out.println("      ______");
@@ -69,6 +75,7 @@ public class hangman{
                 System.out.println("           |");
                 System.out.println("           |");
                 System.out.println("     ______|");
+                break;
                 
         }
     }
