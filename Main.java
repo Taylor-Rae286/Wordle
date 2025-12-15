@@ -32,5 +32,8 @@ public class Main
 		    System.out.print("The word was really ");
 		    answer.showWordToGuess();
 		}
+		else if(answer.isSolved()){
+		    System.out.println("You guessed it! You should feel proud!");
+		}
 	}
 }
